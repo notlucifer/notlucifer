@@ -1,10 +1,52 @@
-- 👋 Hi, I’m @notlucifer
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<!DOCTYPE html>
+<html>
+<head>
+	<title>cw</title>
+	<style type="text/css">
+		.p1
+		{
+			color: red;
+			font-size: 20px;
+			text-align: left: ;
+			font-family: arial;
+			text-transform: uppercase;
+			background-color: pink;
+		}
+		.p2
+		{
+			color: blue;
+			font-size: 30px;
+			text-align: center;
+			font-family: sans-serif;
+			text-transform: lowercase;
+			
 
-<!---
-notlucifer/notlucifer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+		}
+		.p3
+		{
+			color: white;
+			font-size: 40px;
+			text-align: right;
+            text-transform: capitalize;
+		}
+		#d1
+		{
+			background-color: black;
+			color: white;
+
+		}
+		body
+		{
+			background-color: #FBE70E;
+		}
+	</style>
+</head>
+<body>
+	<h1 id="d1">Today is THursday</h1>
+	
+     <p class="p1"> My name is Ritam. I am a student.</p>
+     <p class="p2"> My name is Ritam. I am a student.</p>
+     <p class="p3"> My name is Ritam. I am a student.</p>
+
+     
+</body>
